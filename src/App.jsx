@@ -15,13 +15,13 @@ function App() {
           setBookmarks(newBookMarks);
         }
 
-        const markAsRead = (time, id) => {
+        const markAsRead = (id, time) => {
           const newReadTime = readTime+time;
           setReadTime(newReadTime);
 
           // remove the selective bookmark
 
-          const remainingBookMark = bookmarks.filter(bookmark => bookmark.id !==id);
+          const remainingBookMark = bookmarks.filter(bookmark => bookmark.id !== id);
           setBookmarks(remainingBookMark);
         }
 
