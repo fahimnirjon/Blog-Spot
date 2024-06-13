@@ -7,7 +7,7 @@ const Blog = ({blog, handleToBm, markAsRead }) => {
     const {id, title, cover_pic, author, author_pic, reading_time,post_date, post_time, hashtags } = blog;
 
     return (
-        <div className='mb-20 space-y-4'>
+        <div className='mt-5 mb-20 space-y-4 border-2 border-purple-400 rounded-2xl'>
             <img className='w-full mb-8 rounded-lg' src={cover_pic} alt={`Cover picture of the title ${title}`} />
             <div className='flex justify-between mb-4 '>
                 <div className='flex gap-4'>
