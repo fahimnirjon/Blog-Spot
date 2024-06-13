@@ -1,0 +1,81 @@
+[
+    {
+      "id": 1,
+      "cover_pic": "https://i.ibb.co/bHBFyhP/js.jpg",
+      "title": "Top 5 JavaScript Frameworks to Learn in 2024",
+      "author": "Fahim Nirjon",
+      "author_pic": "https://i.ibb.co/gRgmyqf/IMG-4638.jpg",
+      "post_date": "2024-06-12",
+      "post_time": "10:30 AM",
+      "reading_time": 5,
+      "hashtags": ["javascript", "frameworks", "web_dev"]
+    },
+    {
+      "id": 2,
+      "cover_pic": "https://i.ibb.co/K7gJt4p/vegan.jpg",
+      "title": "The Ultimate Guide to Vegan Baking",
+      "author": "Fahim Nirjon",
+      "author_pic": "https://i.ibb.co/gRgmyqf/IMG-4638.jpg",
+      "post_date": "2024-06-11",
+      "post_time": "08:00 PM",
+      "reading_time": 12,
+      "hashtags": ["vegan", "baking", "recipes"]
+    },
+    {
+      "id": 3,
+      "cover_pic": "https://i.ibb.co/bLj87rz/iceland.jpg",
+      "title": "Exploring the Breathtaking Landscapes of Iceland",
+      "author": "Fahim Nirjon",
+      "author_pic": "https://i.ibb.co/gRgmyqf/IMG-4638.jpg",
+      "post_date": "2024-06-10",
+      "post_time": "02:00 PM",
+      "reading_time": 8 ,
+      "hashtags": ["travel", "iceland", "photography"]
+    },
+    {
+      "id": 4,
+      "cover_pic": "https://i.ibb.co/SK6JR51/female-friends-out-shopping-together.jpg",
+      "title": "Sustainable Fashion Tips for a Greener Wardrobe",
+      "author": "Fahim Nirjon",
+      "author_pic": "https://i.ibb.co/gRgmyqf/IMG-4638.jpg",
+      "post_date": "2024-06-09",
+      "post_time": "11:15 AM",
+      "reading_time": 7,
+      "hashtags": ["fashion", "sustainability", "eco_friendly"]
+    },
+    {
+      "id": 5,
+      "cover_pic": "https://i.ibb.co/mHnbzH0/history.jpg",
+      "title": "The History of Abstract Expressionism",
+      "author": "Fahim Nirjon",
+      "author_pic": "https://i.ibb.co/gRgmyqf/IMG-4638.jpg",
+      "post_date": "2024-06-08",
+      "post_time": "05:30 PM",
+      "reading_time": 10,
+      "hashtags": ["art", "history", "abstract"]
+    },
+    {
+      "id": 6,
+      "cover_pic": "https://i.ibb.co/ZVXLWjw/cute-animals-group-white-background.jpg",
+      "title": "5 Common Dog Training Mistakes and How to Avoid Them",
+      "author": "Fahim Nirjon",
+      "author_pic": "https://i.ibb.co/gRgmyqf/IMG-4638.jpg",
+      "post_date": "2024-06-07",
+      "post_time": "09:45 AM",
+      "reading_time": 6 ,
+      "hashtags": ["dogs", "training", "pets"]
+    },
+  {
+    "id": 7,
+    "cover_pic": "https://i.ibb.co/NSHgy13/7209767.jpg",
+    "title": "Building a Strong Personal Brand for Career Success",
+    "author": "Fahim Nirjon",
+    "author_pic": "https://i.ibb.co/gRgmyqf/IMG-4638.jpg",
+    "post_date": "2024-06-03",
+    "post_time": "12:30 PM",
+    "reading_time": 13,
+    "hashtags": ["career", "personal_branding", "business"]
+  }
+]
+
+  
